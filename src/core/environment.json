@@ -1,0 +1,12 @@
+{
+  "DEBUG": true,
+  "API": {
+    "HOST": "http://localhost:8000/",
+    "HEADERS": [
+
+    ]
+  },
+  "SESSION": {
+    "KEY": "@SessionStore:session_token"
+  }
+}
